@@ -1,6 +1,19 @@
 ## Welcome to MyWeb
 ## Writing & Notes
-<h1>adiyabat</h1>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Website!</title>
+    </head>
+    <body>
+        <h1>First Page</h1>
+
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce placerat rutrum nisi at pellentesque. Fusce orci magna, pulvinar ut ultricies id, feugiat eu elit. Nam molestie eu lacus eu fermentum. Fusce eleifend tempus sapien eu maximus. Donec lobortis dapibus magna, quis facilisis velit malesuada a. Nunc iaculis augue nulla, sed sodales dui volutpat lacinia.
+        </p>
+    </body>
+</html>
+
 
 ### Markdown
 
