@@ -1,6 +1,5 @@
 ## Welcome to MyWeb
 ## Writing & Notes
-<!DOCTYPE html>
 <html>
     <head>
         <title>My Website!</title>
