@@ -1,5 +1,7 @@
 ## Welcome to MyWeb
 ## Writing & Notes
+import request
+
 <html>
     <head>
         <title>My Website!</title>
