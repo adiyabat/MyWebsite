@@ -5,10 +5,10 @@
         <title>My Website!</title>
     </head>
     <body>
-        <h1>First Page</h1>
+        <h1>Coronvirus</h1>
 
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce placerat rutrum nisi at pellentesque. Fusce orci magna, pulvinar ut ultricies id, feugiat eu elit. Nam molestie eu lacus eu fermentum. Fusce eleifend tempus sapien eu maximus. Donec lobortis dapibus magna, quis facilisis velit malesuada a. Nunc iaculis augue nulla, sed sodales dui volutpat lacinia.
+        There are currently 2,418,407 confirmed cases and 165,739 deaths from the coronavirus COVID-19 outbreak as of April 20, 2020, 09:17 GMT.
         </p>
     </body>
 </html>
