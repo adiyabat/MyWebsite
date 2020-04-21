@@ -1,6 +1,9 @@
+```python
+@import request
+
+
 ## Welcome to MyWeb
 ## Writing & Notes
-@import request
 
 <html>
     <head>
