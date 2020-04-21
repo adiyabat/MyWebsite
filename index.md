@@ -1,6 +1,6 @@
 ## Welcome to MyWeb
 ## Writing & Notes
-import request
+@import request
 
 <html>
     <head>
