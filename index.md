@@ -1,6 +1,5 @@
 ## Welcome to MyWeb
 ## Writing & Notes
-```python
 @import request
 
 <html>
